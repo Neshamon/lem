@@ -36,3 +36,6 @@ build/*
 /systems/
 
 /result
+
+config.lisp
+history/
